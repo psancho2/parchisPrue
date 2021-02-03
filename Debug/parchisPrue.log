@@ -1,3 +1,0 @@
-﻿  parchisPrue.cpp
-C:\Users\user\source\repos\parchisPrue\parchisPrue.cpp(417,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-  parchisPrue.vcxproj -> C:\Users\user\source\repos\parchisPrue\Debug\parchisPrue.exe
