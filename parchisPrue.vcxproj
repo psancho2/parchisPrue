@@ -23,7 +23,11 @@
     <Text Include="pruebas6.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="addColor.cpp" />
     <ClCompile Include="parchisPrue.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="addColor.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
